@@ -9,3 +9,4 @@
 - 📫 Reach me at Linkedin: [Rafael Melo](https://www.linkedin.com/in/rafael-rodrigues-pimentel-de-melo-9588a02b3/?locale=pt_BR)
 - ⚡ Fun facts: Nerd, Chess, Music and BJJ
 
+<img src="https://raw.githubusercontent.com/Raf-Pimentel/Raf-Pimentel/output/snake.svg" alt="Snake animation" />
