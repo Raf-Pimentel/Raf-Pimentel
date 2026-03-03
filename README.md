@@ -5,7 +5,7 @@
 - 🔬 Currently working as an AI researcher in collaboration with 🟢NVIDIA at LIDS-Unicamp 
 - :dart: Currently learning ML and AI
 - :hammer_and_wrench: Looking to collaborate on AI-Entrepreneurship-related topics
-- 🏎️ Previous experience in: Computer Vision, Robotics, and   
+- 🏎️ Previous experience in: Computer Vision and Robotics   
 
 - 📫 Reach me at Linkedin: [Rafael Melo](https://www.linkedin.com/in/rafael-rodrigues-pimentel-de-melo-9588a02b3/?locale=pt_BR)
 - ⚡ Fun facts: Nerd, Chess, Music and BJJ
