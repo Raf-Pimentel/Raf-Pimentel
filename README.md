@@ -10,4 +10,5 @@
 - ⚡ Fun facts: Nerd, Chess, Music and BJJ
 
 <img src="https://raw.githubusercontent.com/Raf-Pimentel/Raf-Pimentel/output/snake.svg" alt="Snake animation" />
+
 ###
