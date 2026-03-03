@@ -9,7 +9,7 @@
 - 📫 Reach me at Linkedin: [Rafael Melo](https://www.linkedin.com/in/rafael-rodrigues-pimentel-de-melo-9588a02b3/?locale=pt_BR)
 - ⚡ Fun facts: Nerd, Chess, Music and BJJ
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Engineer Learning how to code in Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
