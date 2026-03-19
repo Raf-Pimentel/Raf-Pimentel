@@ -8,7 +8,7 @@
 - 🏎️ Previous experience in: Computer Vision, Formula Cars, Mars Rovers and Robotics :)
 
 - 📫 Reach me at Linkedin: [Rafael Melo](https://www.linkedin.com/in/rafael-rodrigues-pimentel-de-melo-9588a02b3/?locale=pt_BR)
-- ⚡ Fun facts: Nerd, Chess, Music and BJJ
+- ⚡ Fun facts: Nerd, Used to be a child chess prodigy, I like to learn hard guitar songs and practice BJJ in spare time
 
 <h3 align="center"> An Mechatronics Engineer Learning How to Code in Brazil</h3>
 
