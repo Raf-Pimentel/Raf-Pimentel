@@ -3,7 +3,7 @@
 - :books: Mechatronics Engineer at Unicamp
 - :chart_with_upwards_trend: President of Entrepreneurship League at Unicamp
 - 🔬 Currently working as an AI researcher in collaboration with 🟢NVIDIA at LIDS-Unicamp 
-- :dart: Currently learning ML and AI
+- :dart: Currently developing my ML and AI skills
 - :hammer_and_wrench: Looking to collaborate on AI-Entrepreneurship-related topics
 - 🏎️ Previous experience in: Computer Vision, Formula Cars, Mars Rovers and Robotics :)
 
