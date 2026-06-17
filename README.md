@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 🎓 Mechatronics Engineer at **UNICAMP**
-- 📈 Active member of the **Entrepreneurship League at Unicamp**
+- 📈 President of **Entrepreneurship League at Unicamp**
 - 🔬 AI Researcher at **LIDS-Unicamp**, working on projects in collaboration with **NVIDIA**
 - ⚙️ Researcher at **LAMAR (FEM-UNICAMP)**, supervised by Prof. Thales F. Peixoto
 - 🎯 Continuously developing my skills in ML, computer vision, and robotics
