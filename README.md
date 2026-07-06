@@ -64,15 +64,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raf-Pimentel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Raf-Pimentel/Raf-Pimentel/output/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raf-Pimentel/Raf-Pimentel/output/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="400" />
+  <img src="https://raw.githubusercontent.com/Raf-Pimentel/Raf-Pimentel/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raf-Pimentel/Raf-Pimentel/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" width="400" />
+  <img src="https://raw.githubusercontent.com/Raf-Pimentel/Raf-Pimentel/output/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="400" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Raf-Pimentel&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raf-Pimentel&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 ---
