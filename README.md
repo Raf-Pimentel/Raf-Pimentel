@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Rafael Melo 👋</h1>
-
-<h3 align="center">Mechatronics Engineer | AI Researcher | Entrepreneur</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rafael+Melo+%F0%9F%91%8B;Mechatronics+Engineer;AI+Researcher;Entrepreneur" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-rodrigues-pimentel-de-melo-9588a02b3/?locale=pt_BR" target="_blank">
@@ -61,21 +61,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raf-Pimentel/Raf-Pimentel/output/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raf-Pimentel/Raf-Pimentel/output/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="400" />
-  <img src="https://raw.githubusercontent.com/Raf-Pimentel/Raf-Pimentel/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raf-Pimentel/Raf-Pimentel/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" width="400" />
-  <img src="https://raw.githubusercontent.com/Raf-Pimentel/Raf-Pimentel/output/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="400" />
-</p>
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Raf-Pimentel&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
