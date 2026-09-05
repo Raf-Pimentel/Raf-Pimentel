@@ -18,7 +18,6 @@
 - 🎓 Mechatronics Engineer at **UNICAMP**
 - 📈 President of **Entrepreneurship League at Unicamp**
 - 🔬 AI Researcher at **LIDS-Unicamp**, working on projects in collaboration with **NVIDIA**
-- ⚙️ Researcher at **LAMAR (FEM-UNICAMP)**, supervised by Prof. Thales F. Peixoto
 - 🎯 Continuously developing my skills in ML, computer vision, and robotics
 - 🛠️ Open to collaborating on **AI and entrepreneurship**-related topics
 - 🏎️ Previous experience in Computer Vision, Formula SAE, Mars Rovers, and Robotics
@@ -29,7 +28,7 @@
 
 - 📄 **ML surrogate modeling for hydrodynamic thrust bearing dynamic coefficients** — paper for MECSOL 2026, using a 2D Reynolds equation solver (Gauss-Seidel/SOR) and models such as Random Forest, XGBoost, and ANN
 - 📄 **ArUco marker pose estimation** — paper in preparation for the journal *Robotica*
-- 🧬 **Synthetic medical image generation** — PIBIC fellowship at LIDS, using latent diffusion models (ControlNet++, VAE) for CT/MRI data
+- 🧬 **Synthetic medical image generation** — using latent diffusion models (ControlNet++, VAE) for CT/MRI data
 
 ---
 
